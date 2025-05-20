@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\mahir\\Desktop\\Interface Quiz\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{071DA5C7-0B05-4C3C-9173-0D46344A3036}|Interface Quiz\\Interface Quiz.csproj|c:\\users\\mahir\\desktop\\interface quiz\\interface quiz\\models\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{071DA5C7-0B05-4C3C-9173-0D46344A3036}|Interface Quiz\\Interface Quiz.csproj|solutionrelative:interface quiz\\models\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{071DA5C7-0B05-4C3C-9173-0D46344A3036}|Interface Quiz\\Interface Quiz.csproj|c:\\users\\mahir\\desktop\\interface quiz\\interface quiz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{071DA5C7-0B05-4C3C-9173-0D46344A3036}|Interface Quiz\\Interface Quiz.csproj|solutionrelative:interface quiz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{071DA5C7-0B05-4C3C-9173-0D46344A3036}|Interface Quiz\\Interface Quiz.csproj|c:\\users\\mahir\\desktop\\interface quiz\\interface quiz\\services\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071DA5C7-0B05-4C3C-9173-0D46344A3036}|Interface Quiz\\Interface Quiz.csproj|solutionrelative:interface quiz\\services\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{071DA5C7-0B05-4C3C-9173-0D46344A3036}|Interface Quiz\\Interface Quiz.csproj|c:\\users\\mahir\\desktop\\interface quiz\\interface quiz\\interfaces\\istore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,6 +13,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{071DA5C7-0B05-4C3C-9173-0D46344A3036}|Interface Quiz\\Interface Quiz.csproj|c:\\users\\mahir\\desktop\\interface quiz\\interface quiz\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{071DA5C7-0B05-4C3C-9173-0D46344A3036}|Interface Quiz\\Interface Quiz.csproj|solutionrelative:interface quiz\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071DA5C7-0B05-4C3C-9173-0D46344A3036}|Interface Quiz\\Interface Quiz.csproj|c:\\users\\mahir\\desktop\\interface quiz\\interface quiz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071DA5C7-0B05-4C3C-9173-0D46344A3036}|Interface Quiz\\Interface Quiz.csproj|solutionrelative:interface quiz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,18 +32,18 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Store.cs",
-              "DocumentMoniker": "C:\\Users\\mahir\\Desktop\\Interface Quiz\\Interface Quiz\\Models\\Store.cs",
-              "RelativeDocumentMoniker": "Interface Quiz\\Models\\Store.cs",
-              "ToolTip": "C:\\Users\\mahir\\Desktop\\Interface Quiz\\Interface Quiz\\Models\\Store.cs*",
-              "RelativeToolTip": "Interface Quiz\\Models\\Store.cs*",
-              "ViewState": "AgIAACQAAAAAAAAAAAAowD4AAABSAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\mahir\\Desktop\\Interface Quiz\\Interface Quiz\\Services\\Store.cs",
+              "RelativeDocumentMoniker": "Interface Quiz\\Services\\Store.cs",
+              "ToolTip": "C:\\Users\\mahir\\Desktop\\Interface Quiz\\Interface Quiz\\Services\\Store.cs",
+              "RelativeToolTip": "Interface Quiz\\Services\\Store.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwEAAAABUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-19T10:35:56.818Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "IStore.cs",
               "DocumentMoniker": "C:\\Users\\mahir\\Desktop\\Interface Quiz\\Interface Quiz\\Interfaces\\IStore.cs",
               "RelativeDocumentMoniker": "Interface Quiz\\Interfaces\\IStore.cs",
@@ -56,29 +56,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\mahir\\Desktop\\Interface Quiz\\Interface Quiz\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Interface Quiz\\Models\\Product.cs",
               "ToolTip": "C:\\Users\\mahir\\Desktop\\Interface Quiz\\Interface Quiz\\Models\\Product.cs",
               "RelativeToolTip": "Interface Quiz\\Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-16T17:06:42.701Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\mahir\\Desktop\\Interface Quiz\\Interface Quiz\\Program.cs",
               "RelativeDocumentMoniker": "Interface Quiz\\Program.cs",
               "ToolTip": "C:\\Users\\mahir\\Desktop\\Interface Quiz\\Interface Quiz\\Program.cs",
               "RelativeToolTip": "Interface Quiz\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T16:59:33.463Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-16T16:59:33.463Z"
             }
           ]
         }

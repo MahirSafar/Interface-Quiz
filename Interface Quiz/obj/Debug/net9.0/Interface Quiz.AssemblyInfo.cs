@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Interface Quiz")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cabe206c43feeacc5f627e1979ee763c10fd7455")]
 [assembly: System.Reflection.AssemblyProductAttribute("Interface Quiz")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Interface Quiz")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

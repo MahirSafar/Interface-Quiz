@@ -1,6 +1,7 @@
 ﻿using Interface_Quiz.Interfaces;
+using Interface_Quiz.Models;
 
-namespace Interface_Quiz.Models
+namespace Interface_Quiz.Services
 {
     class Store : IStore
     {

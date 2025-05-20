@@ -12,3 +12,4 @@ C:\Users\mahir\Desktop\Interface Quiz\Interface Quiz\obj\Debug\net9.0\refint\Int
 C:\Users\mahir\Desktop\Interface Quiz\Interface Quiz\obj\Debug\net9.0\Interface Quiz.pdb
 C:\Users\mahir\Desktop\Interface Quiz\Interface Quiz\obj\Debug\net9.0\Interface Quiz.genruntimeconfig.cache
 C:\Users\mahir\Desktop\Interface Quiz\Interface Quiz\obj\Debug\net9.0\ref\Interface Quiz.dll
+C:\Users\mahir\Desktop\Interface Quiz\Interface Quiz\obj\Debug\net9.0\Interface Quiz.sourcelink.json
